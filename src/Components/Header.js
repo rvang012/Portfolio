@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 export default class Header extends Component {
     render() {
         let resumeData = this.props.resumeData;
@@ -7,7 +6,7 @@ export default class Header extends Component {
             <React.Fragment>
                 <header id="home">
                     <nav id="nav-wrap">
-                        <a className="mobile-btn" href="#" title="Hide navigation">
+                        <a className="mobile-btn" href="#nav-wrap" title="Hide navigation">
                             Hide navigation
                         </a>
                         <ul id="nav" className="nav">
