@@ -33,7 +33,13 @@ let resumeData = {
             "name": "Food-App",
             "description":"A group project that created an app that generates motivational quotes for Users to use and if so wish, post on Twitter",
             "imgurl": "images/Motivational thingy here img here",
-        // }, add more projects here
+        }, 
+        {
+            "name": "Fitness-Tracker",
+            "description": "An application to track the User's fitness through a certain amount of time.",
+            "imgurl": "images/portfolio/Fitnesstracker here",
+        },
+        
 
     ]
 }
