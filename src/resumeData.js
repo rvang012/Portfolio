@@ -1,45 +1,43 @@
 let resumeData = {
-    "imagebaseur1":"//portfoliopages",
+    "imagebaseur1":"",
     "name": "Caag Ruth Vang",
     "role": "Full Stack Developer",
-    "linkedinID": "My ID",
+    "linkedinID": "https://www.linkedin.com/in/caag-vang/",
     "roleDescription": "I love learning new coding langauges.",
     "socialLinks": [
         {
             "name":"linkedin",
-            "url":"url in here",
+            "url":"https://www.linkedin.com/in/caag-vang/",
             "className": "fa fa=linkedin"
         },
         {
             "name":"github",
-            "url": "githuburl here",
+            "url": "https://github.com/rvang012",
             "className": "fa fa-github",
         }
     ],
     "aboutme": "DO an introduction here.",
-    "website": "portfolio website here",
     "projects": [
         {
             "name": "Note-Taker",
             "description":"An application to help Users keep track of their notes.",
-            "imgurl": "images/note-taker img here",
+            "imgurl": "img/portfolio/notetakerimg.png",
         },
         {
             "name": "Motivational Quote Generator",
             "description":"A group project that created an app that generates motivational quotes for Users to use and if so wish, post on Twitter",
-            "imgurl": "images/Motivational thingy here img here",
+            "imgurl": "img/portfolio/motivationstationshot.png",
         },
         {
             "name": "Food-App",
             "description":"A group project that created an app that generates motivational quotes for Users to use and if so wish, post on Twitter",
-            "imgurl": "images/Motivational thingy here img here",
+            "imgurl": "img/portfolio/foodappimg.png",
         }, 
         {
-            "name": "Fitness-Tracker",
-            "description": "An application to track the User's fitness through a certain amount of time.",
-            "imgurl": "images/portfolio/Fitnesstracker here",
+            "name": "Budget-Tracker",
+            "description": "An application to track the User's budget.",
+            "imgurl": "img/portfolio/budgettracker.png",
         },
-        
 
     ]
 }
