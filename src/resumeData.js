@@ -1,3 +1,4 @@
+
 let resumeData = {
     "imagebaseur1":"",
     "name": "Caag Ruth Vang",
